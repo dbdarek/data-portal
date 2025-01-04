@@ -8,17 +8,17 @@
     "version": "1.0.0",
     "attributes": {
       "content": {
-        "title": "Modern Research Data Portal",
-        "privacy_policy": "This is an example privacy policy – you should replace this with your own policy.",
-        "terms_of_service": "This is an example terms of service – you should replace this with your own terms."
+        "title": "ORCD Data Portal",
+        "privacy_policy": "privacy policy for the site.",
+        "terms_of_service": "terms of service."
       },
       "globus": {
         "application": {
-          "client_id": "fa198f1c-d1d5-407e-b2e1-67afdff1e1a9"
+          "client_id": "4e5905c5-f7fe-4d7d-bff2-be453870d459"
       },
         "transfer": {
-          "collection_id": "a6f165fa-aee2-4fe5-95f3-97429c28bf82",
-          "path": "/portal/catalog/"
+          "collection_id": "401b078f-8d54-4128-bf97-469dcdd0e0b4",
+          "path": "/"
         }
       }
     }
